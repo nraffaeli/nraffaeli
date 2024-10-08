@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicolò Raffaeli
 - 👀 Everything is interesting
-- 🌱 I’m currently graduating in Physics
+- 🌱Bachelor’s in Physics, currently pursuing a Master’s Degree in Theoretical Physics.
 - 📫 How to reach me? n.raffaeli@campus.unimib.it
 
 <!---
